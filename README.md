@@ -10,5 +10,7 @@ The website has :
 - 1 xml file that holds a list of countries, their continents and calling code
 - 1 folder with 6 images
 
+The website has been placed on live at: http://portfolio.simonec.net/ 
+
 
 Disclaimer: The contents written in this webpage is extracted from various resources and do not represent the university in reality. 
