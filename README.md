@@ -12,5 +12,14 @@ The website has :
 
 The website has been placed on live at: http://portfolio.simonec.net/ 
 
+**Disclaimer: The contents written in this webpage is extracted from various resources and do not represent the university in reality.**
 
-Disclaimer: The contents written in this webpage is extracted from various resources and do not represent the university in reality. 
+Image Credits: 
+- https://brand.uga.edu/university-logos
+- https://www.skyliteadvertising.com/jobs/executive-office-assistance/
+- http://www.investinhamilton.ca/small-business/special-events/
+- http://red-larousse.com/noticias/el-modelo-educativo-2016
+
+Info Credits: 
+- https://www.masterstudies.co.uk/M.Sc-in-Global-Marketing-Management/Malaysia/APU/
+- http://www.manchester.ac.uk/study/masters/courses/list/02247/msc-marketing/
